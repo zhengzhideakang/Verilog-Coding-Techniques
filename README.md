@@ -7,3 +7,9 @@ Verilog编程技巧系列文章将聚焦于介绍Verilog的各种编程范式或
 ## 更多参考
 
 [Verilog编程技巧01——如何编写三段式状态机 – 徐晓康的博客](https://www.myhardware.top/verilog编程技巧01-如何编写三段式状态机/)
+
+## 其它平台
+
+微信公众号：`徐晓康的博客`
+
+<img src="https://picgo-dakang.oss-cn-hangzhou.aliyuncs.com/img/%E5%BE%90%E6%99%93%E5%BA%B7%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" alt="徐晓康的博客公众号二维码" />
